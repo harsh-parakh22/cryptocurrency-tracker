@@ -1,0 +1,76 @@
+{
+  "name": "crypto-creed",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@3id/connect": "^0.4.1",
+    "@ceramicnetwork/3id-did-resolver": "^2.11.0",
+    "@ceramicnetwork/http-client": "^2.15.0",
+    "@ceramicstudio/idx": "^0.12.2",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.3",
+    "@material-ui/lab": "^4.0.0-alpha.61",
+    "@material-ui/styles": "^4.11.5",
+    "@mui/material": "^5.11.14",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "assert": "^2.0.0",
+    "axios": "^1.2.3",
+    "browserify-zlib": "^0.2.0",
+    "chart.js": "^4.2.1",
+    "crypto": "^1.0.1",
+    "crypto-browserify": "^3.12.0",
+    "dids": "^3.4.0",
+    "ethers": "^5.7.2",
+    "firebase": "^9.19.1",
+    "firebase-admin": "^11.5.0",
+    "firebaseui": "^6.0.2",
+    "libphonenumber-js": "^1.10.26",
+    "material-table": "^1.69.2",
+    "material-ui-phone-number": "^3.0.0",
+    "moment": "^2.29.4",
+    "querystring-es3": "^0.2.1",
+    "react": "^18.2.0",
+    "react-alice-carousel": "^2.7.0",
+    "react-animate-on-scroll": "^2.1.5",
+    "react-chartjs-2": "^3.0.4",
+    "react-dom": "^17.0.2",
+    "react-google-button": "^0.7.2",
+    "react-html-parser": "^2.0.2",
+    "react-icons": "^4.7.1",
+    "react-phone-number-input": "^3.2.19",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^5.0.1",
+    "react-scroll": "^1.8.9",
+    "stream": "^0.0.2",
+    "url": "^0.11.0",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
