@@ -1,2 +1,17 @@
 # Cryptocurrency Tracker with React JS, Material UI, Chart JS 
 
+![IMG1](imgs/homepage 1.png)
+![IMG1](imgs/feature.png)
+![IMG1](imgs/contact & feedback.png)
+![IMG1](imgs/user login.png)
+![IMG1](imgs/user sign up.png)
+![IMG1](imgs/select currency.png)
+![IMG1](imgs/coin table 1.png)
+![IMG1](imgs/coin page.png)
+![IMG1](imgs/latest news 1.png)
+![IMG1](imgs/user sidebar.png)
+![IMG1](imgs/forgot password page.png)
+![IMG1](imgs/admin login.png)
+![IMG1](imgs/admin side 1.png)
+![IMG1](imgs/admin side feedback.png)
+![IMG1](imgs/admin side user.png)
